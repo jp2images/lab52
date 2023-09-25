@@ -18,5 +18,5 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
 
-- script: cat "file1"
+- script: cat "File1"
   displayName: "File created in GitHub"
